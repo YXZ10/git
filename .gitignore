@@ -1,0 +1,46 @@
+# Windows 系统文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# 编辑器与 IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统与临时文件
+*.tmp
+*.log
+*.bak
+*.orig
+.DS_Store
+
+# 依赖与构建产物
+node_modules/
+dist/
+build/
+target/
+out/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# 编译产物
+*.exe
+*.dll
+*.o
+*.obj
+*.class
+*.pyc
+
+# 压缩包与镜像
+*.zip
+*.7z
+*.rar
+*.iso
